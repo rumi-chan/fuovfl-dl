@@ -9,7 +9,7 @@ import socket
 
 # --- CONFIGURATION: PLEASE EDIT THESE VALUES ---
 FORUM_PAGE_URL = "" # e.g. https://fuoverflow.com/threads/cea201-fa-2024-re.3059/
-USER_COOKIE = "" <- add ur cucki here
+USER_COOKIE = "" # <- add ur cucki here
 BASE_URL = "https://fuoverflow.com"
 MAX_CONCURRENT_DOWNLOADS = 50
 # --- END OF CONFIGURATION ---
